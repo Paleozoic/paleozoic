@@ -1,6 +1,6 @@
 # Hello World 👋
 [![Mail Badge](https://img.shields.io/badge/Paleo-xiaolong.qiu%40foxmail.com-red)](mailto:xiaolong.qiu@foxmail.com)
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/paleozoic/paleozoic/master/sth/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Paleozoic/paleozoic/main/sth/pusheencode.gif" />
 ### ABOUT ME
 
 - ✒️ My Blog [1x1-Space](https://blog.1x1.space)
