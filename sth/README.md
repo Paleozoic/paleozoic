@@ -1,0 +1,5 @@
+- pusheencode.gif: https://github.com/haoruilee/haoruilee
+- emoji: https://github.com/Wscats/emoji
+- 静态小牌子: https://shields.io
+- 展示仓库语言: [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paleozoic&layout=compact&hide=HTML)](https://github.com/Paleozoic)
+- 展示指定仓库: [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=paleozoic&repo=paleozoic)]
