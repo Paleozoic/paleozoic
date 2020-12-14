@@ -3,13 +3,13 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Paleozoic/paleozoic/main/sth/pusheencode.gif" />
 ### ABOUT ME
 
-- ✒️ My Blog [1x1-Space](https://blog.1x1.space)
-- 👹 Job for toting bricks
-- 🍌 Work in Brickyard
-- 📫 email: xiaolong.qiu@foxmail.com
-- 🏡 Located at Shenzhen
-- 🏢 Graduated from HIT
-
+- ✒️ 像素空间 [1x1-Space](https://blog.1x1.space)
+- 👹 工作：烧炉&搬砖
+- 🍌 公司：圣玛利亚砖厂
+- 📫 邮箱: xiaolong.qiu@foxmail.com
+- 🏡 坐标：深圳
+- 🏢 毕业于：HIT
+- :neckbeard: 超然物外，天道酬勤。明德识礼，格物致知。
 
 
 
